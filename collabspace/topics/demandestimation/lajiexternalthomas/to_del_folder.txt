@@ -1,0 +1,1 @@
+will use this to demo on how to remove stale directories
